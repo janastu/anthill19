@@ -1,4 +1,4 @@
-# hillhacks website - https://hillhacks.in/
+# Anthill hacks website - 
 
 Source code for the hillhacks website.
 

@@ -24,15 +24,19 @@ Anthillhacks is inclusive and calls upon every participant to be Excellent to Ea
 The four pillars of Anthillhacks
 
 Collective Consciousness
+
 Expanding the reach of shared human knowledge through improved tools, practices and paradigms.
 
 Re-Story
+
 Explore ReCreation, ReClaimation and ReContextualization of
 
 Myst Meets Cloud
+
 Explore need-based local networks versus the mainstream Internet
 
 Holding the Space
+
 Comfortable for all and cohesive spaces that enable innovation, recreation and collaboration.
 
 

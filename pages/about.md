@@ -16,8 +16,8 @@ Wifi-mesh, set up here, covers some villages, forest areas, historic sites and t
 
 
 PHILOSOPHY
-"The hacker culture is a subculture of individuals who enjoy the intellectual challenge of creatively overcoming limitations of systems to achieve novel and clever outcomes. The act of engaging in activities (such as programming or other media) in a spirit of playfulness and exploration is termed 'hacking' "
 
+"The hacker culture is a subculture of individuals who enjoy the intellectual challenge of creatively overcoming limitations of systems to achieve novel and clever outcomes. The act of engaging in activities (such as programming or other media) in a spirit of playfulness and exploration is termed 'hacking' "
 
 Anthillhacks is inclusive and calls upon every participant to be Excellent to Each Other.
 

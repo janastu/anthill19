@@ -15,28 +15,29 @@ We invite Artists, Hackers, Technology freaks, Environmentalists, Scientists, Cu
 Wifi-mesh, set up here, covers some villages, forest areas, historic sites and the hack camps of the anthill. Servers and services are deployed locally on the mesh with a weak data connection to the Internet. Mesh incentivises trekking or choosing attractive spots in the area to work closely with each other while staying connected to the group as a whole.
 
 
-PHILOSOPHY
+### PHILOSOPHY
 
 "The hacker culture is a subculture of individuals who enjoy the intellectual challenge of creatively overcoming limitations of systems to achieve novel and clever outcomes. The act of engaging in activities (such as programming or other media) in a spirit of playfulness and exploration is termed 'hacking' "
 
 Anthillhacks is inclusive and calls upon every participant to be Excellent to Each Other.
 
-The four pillars of Anthillhacks
+#### The four pillars of Anthillhacks
 
+{: .dl-horizontal}
 Collective Consciousness
 
-Expanding the reach of shared human knowledge through improved tools, practices and paradigms.
+: Expanding the reach of shared human knowledge through improved tools, practices and paradigms.
 
 Re-Story
 
-Explore ReCreation, ReClaimation and ReContextualization of
+: Explore ReCreation, ReClaimation and ReContextualization of
 
 Myst Meets Cloud
 
-Explore need-based local networks versus the mainstream Internet
+: Explore need-based local networks versus the mainstream Internet
 
 Holding the Space
 
-Comfortable for all and cohesive spaces that enable innovation, recreation and collaboration.
+: Comfortable for all and cohesive spaces that enable innovation, recreation and collaboration.
 
 

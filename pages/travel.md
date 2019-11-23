@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Getting to hillhacks
+title: Getting to Anthillhacks
 permalink: /travel/
 ---
 

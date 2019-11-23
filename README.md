@@ -1,4 +1,6 @@
-# hillhacks website -
+
+# Anthill hacks website - 
+
 
 Source code for the hillhacks website.
 

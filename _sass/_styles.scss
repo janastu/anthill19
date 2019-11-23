@@ -75,11 +75,7 @@
     text-shadow: 2px 3px 0px #e55438;
 }
 
-.banner-bg {
-    display: inline-block;
-    background: rgba(255, 228, 196, 0.58);
-    padding: 15px;
-}
+
 /* .......... */
 body{
     /*background-color: #f6f9fc;*/
@@ -333,6 +329,22 @@ h4.speaker {
     border-bottom: solid 1px #e7e7e7;
     padding-bottom: 8px;
     margin-top: 0px;
+}
+
+/*changes for anthillhacks*/
+
+
+.banner-bg {
+    display: inline-block;
+    background: rgba(255, 228, 196, 0.58);
+    padding: 15px;
+    margin-left: auto;
+    margin-right:auto;
+}
+@media (min-width: 768px) {
+    .banner-bg {
+        margin-left: 45rem;
+    }
 }
 
 /* .no-margin{

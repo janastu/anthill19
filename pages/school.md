@@ -4,11 +4,9 @@ title: Winter School Program
 permalink: /school/
 ---
 
-Make your own learning track - this program will have fewer session conflicts
+**Make your own learning track - this program will have fewer session conflicts
 
-=== Winter School
-
-(tentative program)
+*(tentative program)
 
 7th
 : Day 1 - Saturday
@@ -24,39 +22,127 @@ Make your own learning track - this program will have fewer session conflicts
 
 
 8th
-: Opening the closing: performance - Shilpa Mudbi
-  Workshop of visual storytelling using Maaya - Bhanu
-  Make your badge: craft workshop - Siddavva
+: Day 2 - Sunday
+
+> Opening the closing: performance - Shilpa Mudbi
+
+> Workshop of visual storytelling using Maaya - Bhanu
+
+> Make your badge: craft workshop - Siddavva
 ^
 
-9th
-: Mobile radio van: a tour of the hills - Girish 
-  Making of Pi radio: workshop - Sanketh
+9th 
+: Day 3 - Monday
+
+> Mobile radio van: a tour of the hills - Girish 
+
+> Making of Pi radio: workshop - Sanketh
 ^
 
 
 10th 
-: Whatsapp Misinformation: Affordances, Platforms and Infrastructures - Ram Bhat
-  Bidar and orality - Shreyas and Vinay
-  Community Networks - Nico
+: Day 4 - Tuesday
+
+> Whatsapp Misinformation: Affordances, Platforms and Infrastructures - Ram Bhat
+
+> Bidar and orality - Shreyas and Vinay
+
+> Community Networks - Nico
+
+> Talk the Walk: a forest trek - Sheshadri
+
 ^
 
 
 11th 
-: Gendered Usage of Whatsapp - Ram Bhat
-  Gender and Tech - Cynthia
-  Gender and Inclusion - Shilpa
+: Day 5 - Wednesday
+
+> The way we are: mural paiting - Fearless collective
+
+> Gendered Usage of Whatsapp - Ram Bhat
+
+> Gender and Tech - Cynthia
+
+> Gender and Inclusion - Shilpa
 ^
 
 
 12th
-: Forests, Archives - Ranjani
-  *All night Tatvapada*
-  Moon Jazz
-  Moon Rituals
+: Day 6 - Thursday (CNx day 1)
+
+> Forests, Archives - Ranjani
+
+> *CNx session at iruWay (parallel)*
+
+> **All night Tatvapada**
+
+> Moon Jazz
+
+> Moon Rituals
 ^
 
-Bidar youth group 
-Demo of services on mesh
-Mesh Radio
-Pi - products
+13th
+: Day 7 - Friday (CNx day 2)
+
+> *CNx sessions*
+
+> Test **iruWay** connectivity through the mesh builtup
+^
+
+14th
+: Day 8 - Saturday (CNx day 3)
+
+> **CNx sessions moves to Protovillage for the weekend**
+
+> Devarayandurga mesh: a radio introduction to visitors
+
+^
+
+**AnthillHacks sessions more at *nearby* iruWay**
+
+15th
+: Day 9 - Sunday
+
+> Devarayandurga mesh: a radio introduction to visitors
+
+> Visual Mapping of the activities: workshop - Design team
+^
+
+16th
+: Day 10 - Monday
+
+> Schools day 1
+
+> Session with District administration and departments 
+^
+
+17th
+: Day 11 - Tuesday
+
+> Schools day 2
+
+> Session with Village Panchayats 
+
+^
+
+18th
+: Day 12 - Wednesday
+
+> Colleges and maker spaces
+
+> Session with faculty on contextualisation
+^
+
+19th
+: Day 13 - Thurday
+
+> Open day
+^
+
+20th
+: Day 14 - Friday
+
+> Wind down
+
+**break down and cleanup**
+^

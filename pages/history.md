@@ -9,6 +9,7 @@ Anthillhacks is held since 2015. It was for 9 days during the Summer of 2015. Th
 Our first gathering focused on "annotating the hill" of our engagements, on it, during the 9 days.
 
 General overview page: http://j.mp/myhill 
+
 A visual overview of the hill after the annotations: https://anthill.janastu.org/walkthrough.html
 
 ### Anthillhacks 2015

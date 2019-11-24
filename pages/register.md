@@ -10,10 +10,15 @@ permalink: /register/
 (tentative program)
 
 7th
-: Devarayanadurga - Dinesh and friends
-: Librerouter: the why - Nico
-: Antennas - Avishek
-: Food and Fizz: workshop - Saju and Ganesh
+: Day 1 - Saturday
+
+> Devarayanadurga: the location - Dinesh and friends
+
+> Librerouter: the why - Nico
+
+> Antennas - Avishek
+
+> Food and Fizz: workshop - Saju and Ganesh
 ^
 
 

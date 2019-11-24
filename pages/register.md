@@ -65,7 +65,7 @@ What to expect
 
 ***Tracks***
 
-{: .table}
+
 | Arts and Culture | Nature and Ecology | Technology for all | Community | Food | Other |
 |:--------:|:-------:|--------:|:--------|:-------:|--------:|
 | Folk art| Nature Walk    | Mesh network     | Storytelling         | Food processing   | Design labs    |

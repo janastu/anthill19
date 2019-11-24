@@ -17,8 +17,8 @@ send us an email: anthillhacks@janastu.org
 ### Event costs
 
 There is a **day pass** for people staying off-site and a **camping pass** for
-those camping on-site.  As always, we offer a sliding scale on both of these
-passes to allow everyone to participate.
+those camping on-site. A sliding scale on both of these
+passes allow everyone to participate.
 
 All passes cover breakfast, access to daily talks, workshops, and activities
 plus costs like equipment rentals, facilities rent, shade structures,
@@ -47,23 +47,24 @@ a budget sheet.
 
 ### Rough schedule
 
-#### Main conference
+#### Winter School
 
 What to expect
 : Curated talks and workshops  
   Evening entertainment
 
-The main schedule will be updated just prior to the event.
+The School schedule will be updated just prior to the event.
 
 #### Unconference
 
 What to expect
 : Set up days 7-10 Dec 
   Variety of sessions  
-  Demo event outcome to Schools and insitutes
+  Demo event outcome to schools and insitutes
   Clean up after the main conference
 
 ***Tracks***
+
 {: .table}
 | Arts and Culture | Nature and Ecology | Technology for all | Community | Food | Other |
 |:--------|:-------:|--------:|:--------|:-------:|--------:|

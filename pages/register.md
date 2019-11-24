@@ -5,15 +5,15 @@ permalink: /register/
 ---
 
 
-===Winter School
+=== Winter School
 
 (tentative program)
 
 7th
 : Devarayanadurga - Dinesh and friends
-  Librerouter: the why - Nico
-  Antennas - Avishek
-  Food and Fizz: workshop - Saju and Ganesh
+: Librerouter: the why - Nico
+: Antennas - Avishek
+: Food and Fizz: workshop - Saju and Ganesh
 ^
 
 

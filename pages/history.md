@@ -4,64 +4,55 @@ title: Our history
 permalink: /history/
 ---
 
-hillhacks began in 2013 as a conversation between Ritu and Tenzin, founders of
-the [Dharamsala International Film Festival][1], and Akiba, a hacker/maker from
-[Freaklabs][2] in Japan.  It soon expanded to include Ayush Ghai from
-[Ghoomakad][3] (Infinity Hackbase) in nearby Rakkar, and sva from Germany.
-Within a year the first hillhacks took place.
+Anthillhacks is held since 2015. It was for 9 days during the Summer of 2015. Then every year for 2-3 days. In 2019 its planned for 2 weeks! 
 
-Interested in how it happend in detail and who was involved? You can find
-more information in the (archived) [timeline][4].
+Our first gathering focused on "annotating the hill" by our engagements during the 9 days.
 
-[1]: http://diff.co.in/
-[2]: http://www.freaklabs.org/
-[3]: http://ghoomakad.com/
-[4]: https://attic.hillhacks.in/timeline
+General overview page: http://j.mp/myhill 
+A visual overview of the hill after the annotations: https://anthill.janastu.org/walkthrough.html
 
-### hillhacks 0
+### Anthillhacks 2015
 
 {: .dl-horizontal }
 Date
-: 11-28 October 2014
+: 18-26 July 2015
 
 Location
-: Ghoomakad and Country Lodge
+: Anteras, Devarayanadurga hills
+
+Poster
+: https://anthillhacks.pantoto.net/
 
 
-### hillhacks 1
+### iruWay Anthillhacks
 
 {: .dl-horizontal }
 Date
-: 18-31 May 2015
+: 13-14 Aug 2016
 
 Location
-: Shiv Shakti
+: Devarayanadurga hills
 
+Poster
+: http://j.mp/iruway 
 
-### hillhacks 2
+### SOTM Anthillhacks
 
 {: .dl-horizontal }
 Date
-: 23 May - 10 June 2016
+: 19-20 Nov 2018
 
 Location
-: Ghoomakad
+: iruWay farm, foothills of Devarayanadurga hills
 
-
-### hillhacks 3
+### Anthillhacks 2019
 
 {: .dl-horizontal }
 Date
-: 15-31 May 2017
+: 7-20 Dec 2019
 
 Location
-: Bir
+: Anteras, Devarayanadurga and iruWay farm, Durgadahalli foothill
 
-### hillhacks 4
 
-{: .dl-horizontal }
-Date
-: 18-31 May 2018
 
-Location
-: Bir

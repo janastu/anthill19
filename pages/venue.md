@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Venue
-permalink: /venue/
+permalink: /where/
 ---
 
 Anteras of Devarayanadurga and Iruway (iruway.janastu.org) farms at its foothills - about 75 KM NW of Bangalore and 15KM East of Tumkur, India.

@@ -59,13 +59,14 @@ Contribution
 : This event is community driven and run by volunteers. Please see where else
   you can contribute too! This democratic (or even meritocratic) approach is mirrored
   on every layer, and so is it for the money bit, too.
-  ^
+^
 
 Types of financial contribution
 : We want to provide everyone the opportunity to come, so we kindly ask everyone to
   give as much as s/he can afford.
   *Cash on site only.*
-  
+^
+
 Cohosting  
 : APC multi-stakeholder event and Community Networks exchange (CNx) 
 ^

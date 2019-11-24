@@ -9,15 +9,18 @@ permalink: /faq/
 
 ### Is this a paid event?
 
-There is no fee for anything at all. We’d love it if your friends can join, so don’t hesitate to bring them with you. Simply register for the event, come on in. Do spread the word and let more people know about Anthillhacks.
+:There is no fee for anything at all. We’d love it if your friends can join, so don’t hesitate to bring them with you. Simply register for the event, come on in. Do spread the word and let more people know about Anthillhacks.
+^
 
-### What about food?
+### What about food and accomodation?
 
-There will be a kitchen at the camp where food will be made for the people at the camp. Kitchen takes contributions on a sliding scale. The village on the hill - about 200 meters also have a few street side "cafes". Ofcourse, you can cook your own - camping style (no plastic thrash please). *Please volunteer for the kitchen and cleanup.*
+Food
+:There will be a kitchen at the camp where food will be made for the people at the camp. Kitchen takes contributions on a sliding scale. The village on the hill - about 200 meters also have a few street side "cafes". Ofcourse, you can cook your own - camping style (no plastic thrash please). *Please volunteer for the kitchen and cleanup.*
+^
 
-### What about accommodation?
-
-There are a few rooms and a number of tents that can be reserved.
+Accommodation
+:There are a few rooms and a number of tents that can be reserved. You are welcome to pitch your own tent. You get to choose when you register. Please bring warm cloths for the evenings. 
+^
 
 ### Should I bring...
 
@@ -50,3 +53,27 @@ There are a few rooms and a number of tents that can be reserved.
   conference days, priority is given to curated sessions, but you may be able to
   schedule yourself into unused spaces.
   
+### Sliding scale
+
+Contribution
+: This event is community driven and run by volunteers. Please see where else
+  you can contribute too! This democratic (or even meritocratic) approach is mirrored
+  on every layer, and so is it for the money bit, too.
+  ^
+
+Types of financial contribution
+: We want to provide everyone the opportunity to come, so we kindly ask everyone to
+  give as much as s/he can afford.
+  *Cash on site only.*
+  
+  APC multi-stakeholder event and Community Networks exchange (CNx) 
+^
+
+What does that mean?
+: We have four levels of contributions. Please choose the one that suits your budget.
+
+  * Base: can be 0, if you cannot afford otherwise
+  * Reasonable: covers basic costs of food and lodging
+  * Nice: all costs covered, including infrastructure and tools
+  * Supporter: you support others that cannot afford their travel, stay and food
+^

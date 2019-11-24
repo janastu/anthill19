@@ -4,7 +4,7 @@ title: Our history
 permalink: /history/
 ---
 
-Anthillhacks is held since 2015. It was for 9 days during the Summer of 2015. Then sometimes for 2-3 days. Now in 2019 its planned for 2 weeks! 
+Anthillhacks is held since 2015. It was for 9 days during the Summer of 2015. Then anually for 2-3 days. Now in 2019 its planned for 2 weeks! 
 
 Our first gathering focused on "annotating the hill" of our engagements, on it, during the 9 days.
 

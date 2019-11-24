@@ -9,7 +9,7 @@ permalink: /faq/
 
 ### Is this a paid event?
 
-:There is no fee for anything at all. We’d love it if your friends can join, so don’t hesitate to bring them with you. Simply register for the event, come on in. Do spread the word and let more people know about Anthillhacks.
+: There is no fee for anything at all. We’d love it if your friends can join, so don’t hesitate to bring them with you. Simply register for the event, come on in. Do spread the word and let more people know about Anthillhacks.
 ^
 
 ### What about food and accomodation?
@@ -66,7 +66,8 @@ Types of financial contribution
   give as much as s/he can afford.
   *Cash on site only.*
   
-  APC multi-stakeholder event and Community Networks exchange (CNx) 
+Cohosting  
+: APC multi-stakeholder event and Community Networks exchange (CNx) 
 ^
 
 What does that mean?

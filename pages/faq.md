@@ -52,8 +52,10 @@ Accommodation
 : Yes.  The unconference is all about spontaneous sessions.  During the main
   conference days, priority is given to curated sessions, but you may be able to
   schedule yourself into unused spaces.
-  
+^
+
 ### Sliding scale
+
 
 Contribution
 : This event is community driven and run by volunteers. Please see where else
@@ -61,11 +63,13 @@ Contribution
   on every layer, and so is it for the money bit, too.
 ^
 
+
 Types of financial contribution
 : We want to provide everyone the opportunity to come, so we kindly ask everyone to
   give as much as s/he can afford.
   *Cash on site only.*
 ^
+
 
 Cohosting  
 : APC multi-stakeholder event and Community Networks exchange (CNx) 

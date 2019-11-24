@@ -67,16 +67,13 @@ What to expect
 
 {: .table}
 | Arts and Culture | Nature and Ecology | Technology for all | Community | Food | Other |
-|:--------|:-------:|--------:|:--------|:-------:|--------:|
-| Folk art| Nature Walk    | Mesh network     | Storytelling   | Food processing   | Design labs   |
-| Music   | Natural Crafts | Mesh radio       | Crafter Space    | Food preserving   | Community network exchange (CNx)   |
-| Theatre | Bird Watching  | Decentralization | Archives and stories   | Fizz drinks   | Gender days   |
-|----
-| Crafts  | Trekking  | Hardware hacks   | Orality and rights   | Kambucha   |  Fire and drums  |
-| Games   | Cycling   |                  | Politics & society   | Sun curing   |  Puppets  |
-|=====
-| Dance | Environmental stewardship | Mapping for all | Full Moon festivities   | Foraging   | (e) Unicycles
-{: rules="groups"}
+|:--------:|:-------:|--------:|:--------|:-------:|--------:|
+| Folk art| Nature Walk    | Mesh network     | Storytelling         | Food processing   | Design labs    |
+| Music   | Natural Crafts | Mesh radio       | Crafter Space        | Food preserving   | Community network exchange (CNx) |
+| Theatre | Bird Watching  | Decentralization | Archives and stories | Fizz drinks       | Gender days    |
+| Crafts  | Trekking       | Hardware hacks   | Orality and rights   | Kambucha          | Fire and drums |
+| Games   | Cycling        | . . .            | Politics & society   | Sun curing        | Puppets        |
+| Dance | Environmental stewardship | Mapping for all | Full Moon festivities | Foraging | e Unicycles    |
 
 
 

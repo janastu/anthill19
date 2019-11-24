@@ -15,11 +15,11 @@ permalink: /faq/
 ### What about food and accomodation?
 
 Food
-:There will be a kitchen at the camp where food will be made for the people at the camp. Kitchen takes contributions on a sliding scale. The village on the hill - about 200 meters also have a few street side "cafes". Ofcourse, you can cook your own - camping style (no plastic thrash please). *Please volunteer for the kitchen and cleanup.*
+: There will be a kitchen at the camp where food will be made for the people at the camp. Kitchen takes contributions on a sliding scale. The village on the hill - about 200 meters also have a few street side "cafes". Ofcourse, you can cook your own - camping style (no plastic thrash please). *Please volunteer for the kitchen and cleanup.*
 ^
 
 Accommodation
-:There are a few rooms and a number of tents that can be reserved. You are welcome to pitch your own tent. You get to choose when you register. Please bring warm cloths for the evenings. 
+: There are a few rooms and a number of tents that can be reserved. You are welcome to pitch your own tent. You get to choose when you register. *Please bring warm cloths for the evenings.* 
 ^
 
 ### Should I bring...

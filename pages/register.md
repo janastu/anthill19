@@ -66,7 +66,7 @@ What to expect
 ***Tracks***
 
 
-| Arts&Culture | Nature&Ecology | Tech for all | Community | Food | Other |
+| Arts     | Nature  | Tech for all | Community | Food | Other |
 |:--------:|:-------:|--------:|:--------|:-------:|--------:|
 | Folk art| Nature Walk    | Mesh network     | Storytelling         | Food processing   | Design labs    |
 | Music   | Natural Crafts | Mesh radio       | Crafter Space        | Food preserving   | Community network exchange (CNx) |
@@ -76,6 +76,6 @@ What to expect
 | Games   | Cycling        | . . .            | Politics & society   | Sun curing        | Puppets        |
 |=====
 | Dance | Environmental stewardship | Mapping for all | Full Moon festivities | Foraging | e Unicycles    |
-
+{: rules="groups"}
 
 

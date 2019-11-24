@@ -17,5 +17,7 @@ Some of the Anthillhacks sessions and activities will be at the iruWay farm at t
 links
 
 Anteras [https://www.openstreetmap.org/?mlat=13.37143&mlon=77.20556#map=14/13.3742/77.1984]
+
 Devarayanadurga images [https://www.google.com/search?q=devarayanadurga&tbm=isch]
+
 iruWay farm [http://iruway.janastu.org]

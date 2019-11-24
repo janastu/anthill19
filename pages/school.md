@@ -1,9 +1,10 @@
 ---
 layout: page
-title: Register
-permalink: /register/
+title: Winter School Program
+permalink: /school/
 ---
 
+Make your own learning track - this program will have fewer session conflicts
 
 === Winter School
 

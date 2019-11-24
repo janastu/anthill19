@@ -1,8 +1,9 @@
 ---
 layout: page
-title: Participate
+title: Register
 permalink: /register/
 ---
+
 
 **Registration is free and helps us plan the event.**
 

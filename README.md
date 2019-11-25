@@ -1,5 +1,5 @@
 
-# Anthill hacks website - https://janastu.github.io/anthill19
+# Anthill hacks website - http://anthillhacks.in
 
 
 Source code for the hillhacks website.

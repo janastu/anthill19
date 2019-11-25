@@ -53,7 +53,7 @@ What to expect
 : Curated talks and workshops  
   Evening entertainment
 
-The School schedule will be updated just prior to the event.
+The [School schedule](/school/) will be updated just prior to the event.
 
 #### Unconference
 

@@ -16,10 +16,10 @@ Some of the Anthillhacks sessions and activities will be at the iruWay farm at t
 
 links
 
-Anteras [https://www.openstreetmap.org/?mlat=13.37143&mlon=77.20556#map=14/13.3742/77.1984](https://www.openstreetmap.org/?mlat=13.37143&mlon=77.20556#map=14/13.3742/77.1984)
+Anteras [Open Street Map](https://www.openstreetmap.org/?mlat=13.37143&mlon=77.20556#map=14/13.3742/77.1984)
 
-Devarayanadurga images [https://www.google.com/search?q=devarayanadurga&tbm=isch](https://www.google.com/search?q=devarayanadurga&tbm=isch)
+Devarayanadurga images [Google results](https://www.google.com/search?q=devarayanadurga&tbm=isch)
 
-iruWay farm and rural tech reseach lab [http://iruway.janastu.org](http://iruway.janastu.org)
+iruWay farm and rural tech reseach lab [iruway.janastu.org](http://iruway.janastu.org)
 
 iruWay farm has earlier been known as Antz farm and also as Janastu Basecamp

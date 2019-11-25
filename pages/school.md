@@ -111,7 +111,7 @@ permalink: /school/
 16th
 : Day 10 - Monday
 
-> Schools day 1
+> Open to Local School Students day 1
 
 > Session with District administration and departments 
 ^
@@ -119,7 +119,7 @@ permalink: /school/
 17th
 : Day 11 - Tuesday
 
-> Schools day 2
+> Open to Local School Students day 2
 
 > Session with Village Panchayats 
 
@@ -128,7 +128,7 @@ permalink: /school/
 18th
 : Day 12 - Wednesday
 
-> Colleges and maker spaces
+> Open to Colleges and maker spaces
 
 > Session with faculty on contextualisation
 ^
@@ -136,7 +136,7 @@ permalink: /school/
 19th
 : Day 13 - Thurday
 
-> Open day
+> Open day - review and storytelling
 ^
 
 20th
@@ -144,5 +144,5 @@ permalink: /school/
 
 > Wind down
 
-**break down and cleanup**
+**tear down and cleanup**
 ^

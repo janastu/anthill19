@@ -4,11 +4,8 @@ title: Mailing list
 permalink: /mailinglist/
 ---
 
-You can follow this link, <a href="https://lists.riseup.net/www/subscribe/anthillhacks" target="_blank">subscribe to Anthillhacks</a>
+You can subscribe to Anthillhacks mailing list using this link: <a href="https://lists.riseup.net/www/subscribe/anthillhacks" target="_blank">lists.riseup.net/www/subscribe/anthillhacks</a> 
 
-or 
-
-subscribe to mailing list by sending and email to 
-  anthillhacks-subscribe@lists.riseup.net
+or by sending and email to anthillhacks-subscribe@lists.riseup.net
 
 

@@ -58,14 +58,3 @@ Date
 
 Location
 : Anteras, Devarayanadurga and iruWay farm, Durgadahalli foothill
-
-
-
-### Anthillhacks 2019
-
-{: .dl-horizontal }
-Date
-: 7-20 Dec 2019
-
-Location
-: Anteras, Devarayanadurga and iruWay farm, Durgadahalli foothill

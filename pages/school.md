@@ -29,6 +29,9 @@ permalink: /school/
 > Workshop of visual storytelling using Maaya - Bhanu
 
 > Make your badge: craft workshop - Siddavva
+
+> Apps for Work: Oppression and Opportunity - Pradyumna (8th or 10th)
+
 ^
 
 9th 

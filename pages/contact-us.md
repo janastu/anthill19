@@ -21,7 +21,7 @@ Namma School Radio
 ...
 
 
-Links & resources
+**Links & resources**
 
 j.mp/myhill
 

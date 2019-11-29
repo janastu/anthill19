@@ -29,7 +29,7 @@ space and the use of shared bathing facilities.
 |                  | Suggested   | Sliding scale    |
 |------------------|-------------|------------------|
 | **Day pass**     | Rs. xxx/day | Rs. 101-1001/day |
-| **Camping pass** | Rs. xxx/day | Rs. 501-2001/day |
+| **Camping pass** | Rs. xxx/day | Rs. 301-2001/day |
 
 ### How to pay
 We accept cash at the event.
@@ -58,10 +58,10 @@ The [School schedule](/school/) will be updated just prior to the event.
 #### Unconference
 
 What to expect
-: Set up days 7-10 Dec 
-  Variety of sessions  
-  Demo event outcome to schools and insitutes
-  Clean up after the main conference
+  - Build up days 7-10 Dec 
+  - See tracks below
+  - Week 2 engagements focus on schools, colleges and insitutes
+  - Clean up and tear down activities
 
 ***Tracks***
 
@@ -73,9 +73,9 @@ What to expect
 |----
 | Theatre | Bird Watching  | Decentralization | Archives and stories | Fizz drinks       | Gender days    |
 | Crafts  | Trekking       | Hardware hacks   | Orality and rights   | Kambucha          | Fire and drums |
-| Games   | Cycling        | . . .            | Politics & society   | Sun curing        | Puppets        |
+| Games   | Cycling        | Coding corners   | Politics & society   | Sun curing        | Puppets        |
 |=====
-| Dance | Environmental stewardship | Mapping for all | Full Moon festivities | Foraging | e Unicycles    |
+| Dance | Environmental stewardship | Mapping for all | Full Moon festivities | Foraging | eUnicycles    |
 {: rules="groups"}
 
 

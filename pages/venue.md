@@ -6,6 +6,8 @@ permalink: /where/
 
 Anterras of Devarayanadurga and Iruway farm at its foothills - about 75 KM NW of Bangalore and 15KM East of Tumkur, India.
 
+![Pic of Anteras](/assets/images/Dipti_Desai_Anthills_Devrayanadurga-5330.png)
+
 Devarayanadurga is a living fort towm from the Vijayanagara Empire period and is picturesque where these hills become a part of the 360 degree hills range, the valley now has a 4 villages and lots of forest and trekking areas. The rocks are majestic.
 
 There is a Yatri Nivas - a travellers lodge and other smaller "guest houses" built by the devotees of the temple on the hill. Anterras is agricultural stepped terraces that is owned and used by a buffalo herder for grazing, where we pitch our tents.

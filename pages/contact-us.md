@@ -8,7 +8,7 @@ Email address: [anthillhacks@janastu.org](anthillhacks@janastu.org)
 
 Phone: +91 944 911 8175
 
-Emergency: team@servelots.com
+Emergency: ateam@servelots.com
 
 Twitter: [@anthillhacks](twitter.com/anthillhacks)
 

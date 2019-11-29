@@ -54,8 +54,8 @@ Accommodation
   schedule yourself into unused spaces.
 ^
 
-...**trash?**
-: Ofcourse **not**! Please *leave no trace/pack it in and then pack it out*. However, we will have activities and discussions on trash and waste management, organic composting, bio-toilets and traditional methods of addressing food waste.
+...**trash? (Ofcourse not!)**
+: Please *leave no trace, pack it in and then pack it out*. However, we will have activities and discussions on trash and waste management, organic composting, bio-toilets and traditional methods of addressing food waste.
 ^
 
 ### Sliding scale

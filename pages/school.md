@@ -60,8 +60,6 @@ permalink: /school/
 11th 
 : Day 5 - Wednesday
 
-> The way we are: mural paiting - Fearless collective
-
 > Gendered Usage of Whatsapp - Ram Bhat
 
 > Gender and Tech - Cynthia

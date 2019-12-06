@@ -15,31 +15,53 @@ permalink: /school/
 
 > Librerouter: the why - Nico
 
+> Solar powered mesh nodes 1 - Girish
+
+> Gender Days planning: Cynthia and Ivana
+
+> Designing Organic Badges: Siddavva. Madhu and team
+
 > Antennas - Avishek
 
-> Food and Fizz: workshop - Saju and Ganesh
+> Pitching tents and creating spaces: Sanketh, Girish,  Davalappa and all
+
+> Fire side: ice breakers
+
 ^
 
 
 8th
 : Day 2 - Sunday
 
-> Opening the closing: performance - Shilpa Mudbi
+> Opening the closing spaces: performance - Priya
+
+> Follow the sheep - traces: Shalini and Dipti
 
 > Workshop of visual storytelling using Maaya - Bhanu
 
 > Make your badge: craft workshop - Siddavva
 
-> Apps for Work: Oppression and Opportunity - Pradyumna (8th or 10th)
+> Apps for Work: Oppression and Opportunity - Pradyumna  
+
+> 3D and stories: Uma
+
+> Blockchain and bitcoin - Emery
 
 ^
 
 9th 
 : Day 3 - Monday
 
-> Mobile radio van: a tour of the hills - Girish 
+> Day 3 - Monday
+
+> Mobile radio van: a tour of the hills - Girish
 
 > Making of Pi radio: workshop - Sanketh
+
+> Archives - films of the past as future: David
+
+> Opening of the closing spaces: tech interventions - Shalini
+
 ^
 
 
@@ -65,19 +87,34 @@ permalink: /school/
 > Gender and Tech - Cynthia
 
 > Gender and Inclusion - Shilpa
+
+> Organic Colors. Making and playing: Harshita
+
+> Organic Food. Making and Playing: Shailendra
+
+> Walk the Talk. Biodiversity review - Sheshadri and team
+
 ^
 
 
 12th
 : Day 6 - Thursday (CNx day 1)
 
-> Forests, Archives - Ranjani
+> Forests. Our Archives - Ranjani
 
-> *CNx session at iruWay (parallel)*
+> Forests. Our security - Sheshadri
 
-> **All night Tatvapada**
+> CNx session at iruWay (parallel)
 
-> Moon Jazz
+> Evening with the moon (at iruway)
+
+> Tatvapada 
+
+> Bhuto
+
+> Opening the closing. A deep vertical: Shilpa
+
+> Shunya Nada
 
 > Moon Rituals
 ^
@@ -85,9 +122,14 @@ permalink: /school/
 13th
 : Day 7 - Friday (CNx day 2)
 
-> *CNx sessions*
+> CNx sessions
 
-> Test **iruWay** connectivity through the mesh builtup
+> Test iruWay connectivity and the built up mesh
+
+> Radio, Crafts and Storytelling
+
+> Computational Narratives - Srinath and team
+
 ^
 
 14th

@@ -43,7 +43,7 @@ permalink: /school/
 
 > Apps for Work: Oppression and Opportunity - Pradyumna  
 
-> 3D and stories: Uma
+> (i) walk thorough the challenges faced during the set-up of research culture, and (ii) also my journey from  government schools in small villages to IITs. - Uma
 
 > Blockchain and bitcoin - Emery
 

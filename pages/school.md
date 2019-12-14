@@ -164,6 +164,8 @@ permalink: /school/
 
 > Open to Local School Students day 2
 
+> Computational Narratology: Workshop Proposal for AnthillHacks - Srinath & students, IIIT Bangalore
+
 > Session with Village Panchayats 
 
 ^

@@ -152,7 +152,7 @@ permalink: /school/
 
 > Visual Mapping of the activities: workshop - Design team
 
-> Youth camp. Butoh performance.
+> Youth camp. Trek, Butoh performance.
 
 ^
 

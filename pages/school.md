@@ -139,6 +139,8 @@ permalink: /school/
 
 > Devarayandurga mesh: a radio introduction to visitors
 
+> Youth camp. Leadership and Vulnerabilities - Signa
+
 ^
 
 **AnthillHacks sessions more at *nearby* iruWay**
@@ -149,6 +151,9 @@ permalink: /school/
 > Devarayandurga mesh: a radio introduction to visitors
 
 > Visual Mapping of the activities: workshop - Design team
+
+> Youth camp. Butoh performance.
+
 ^
 
 16th

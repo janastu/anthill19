@@ -26,7 +26,7 @@ iruWay farm and rural tech reseach lab [iruway.janastu.org](http://iruway.janast
 
 iruWay farm has earlier been known as Antz farm and also as Janastu Basecamp
 
-## Physical Locations within the COWmesh area
+### Physical Locations within the COWmesh area
 1. Anterras by Yatrinivas, Devarayanadurga/ddhills
 2. [Iruway](https://iruway.janastu.org), Halekote
 3. [CrafterSpace](https://crafts.janastu.org), Halekote/Durgadahalli

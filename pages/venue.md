@@ -25,3 +25,12 @@ Devarayanadurga images [Google results](https://www.google.com/search?q=devaraya
 iruWay farm and rural tech reseach lab [iruway.janastu.org](http://iruway.janastu.org)
 
 iruWay farm has earlier been known as Antz farm and also as Janastu Basecamp
+
+## Physical Locations within the COWmesh area
+1. Anterras by Yatrinivas, Devarayanadurga/ddhills
+2. [Iruway](https://iruway.janastu.org), Halekote
+3. [CrafterSpace](https://crafts.janastu.org), Halekote/Durgadahalli
+4. Near Village Well, Durgadahalli
+5. Tamarind Grove, Thimmanayakanahalli
+
+Distributed sessions, each location will have tents with a large screen, camera and [AsPi devices](https://blog.janastu.org). People can attend sessions live at their location or by choosing a remote channel.

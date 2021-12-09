@@ -7,12 +7,12 @@ permalink: /register/
 
 **Registration is free and helps us plan the event.**
 
-Click the button below to register and let us know that you are coming.
+Our team is looking forward to include your session or activity request for the days of your participation and preference. 
+Please email us at anthillhacks@janastu.org
+
+We are looking for documenters and translators for each of the 5 locations in the mesh area.
 
 <!-- {% include btn-register.html %} -->
-
-If you have already registered and would like propose a session or a workshop, 
-send us an email: anthillhacks@janastu.org
 
 ### Event costs
 
@@ -45,6 +45,8 @@ We aim for transparency.  If you are interested in where your money goes, please
 a budget sheet.
 
 
+<!--
+Archived
 ### Rough schedule
 
 #### Winter School
@@ -78,4 +80,4 @@ What to expect
 | Dance | Environmental stewardship | Mapping for all | Full Moon festivities | Foraging | eUnicycles    |
 {: rules="groups"}
 
-
+-->

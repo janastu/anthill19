@@ -9,7 +9,7 @@ permalink: /register/
 
 Click the button below to register and let us know that you are coming.
 
-{% include btn-register.html %}
+<!-- {% include btn-register.html %} -->
 
 If you have already registered and would like propose a session or a workshop, 
 send us an email: anthillhacks@janastu.org

@@ -106,8 +106,10 @@ body{
     -moz-background-size: cover;
     background-size: cover;
     -o-background-size: cover;
-    padding-top: 45px;
-    margin-top: 25px;
+    //padding-top: 45px;
+    //margin-top: 25px;
+    //2022 bg image edits
+    margin-top: 20%;
 }
 
 .header{
@@ -346,6 +348,7 @@ h4.speaker {
 @media (min-width: 768px) {
     .banner-bg {
         margin-left: 45rem;
+        margin-top: 20%;
     }
 }
 

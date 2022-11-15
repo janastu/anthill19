@@ -7,7 +7,7 @@ permalink: /register/
 
 **Registration is free and helps us plan the event.**
 
-To register, write to us at [anthillhacks@janastu.org](mailto:anthillhacks@janastu.org?subject=2022 Registration) with the subject line 2022 Registration. Tell us your name, organization, tentative dates and number of guests.  
+To register, write to us at [anthillhacks@janastu.org](mailto:anthillhacks@janastu.org?subject=2022 Registration) with the subject line 2022 Registration. Make sure you mention your name, organization, tentative dates and number of guests.  
 
 
 Our team is looking forward to include your session or activity request for the days of your participation and preference. 
@@ -18,7 +18,8 @@ Our team is looking forward to include your session or activity request for the 
 
 ### Event costs
 Stay tuned for pricing. We would ideally not want event costs to be a barrier for participation. Please reach out to us if you would like a waiver.
-<!-- There is a **day pass** for people staying off-site and a **camping pass** for
+
+ <!--There is a **day pass** for people staying off-site and a **camping pass** for
 those camping on-site. A sliding scale on both of these
 passes allow everyone to participate. All passes cover breakfast, access to daily talks, workshops, and activities
 plus costs like equipment rentals, facilities rent, shade structures,
@@ -30,7 +31,8 @@ space and the use of shared bathing facilities.
 | **Day pass**     | Rs. xxx/day | Rs. 101-1001/day |
 | **Camping pass** | Rs. xxx/day | Rs. 301-2001/day |
 
-!-->
+-->
+
 ### How to pay
 We only accept cash at the event, no UPI or online payments.
 
@@ -39,6 +41,7 @@ Please bring cash with you. Local ATMs are not within easy walking distance.
 Every organiser and participant is a volunteer.  Nobody earns a salary
 or makes a profit; if extra funds are collected, we spend them to create a
 better event this year or save them as start-up cash for next year.
+
 <!--
 We aim for transparency.  If you are interested in where your money goes, please
 [contact us]({{site.baseurl}}{% link pages/contact-us.md %}) and we'll give you
@@ -48,26 +51,18 @@ a budget sheet.
 <!--
 Archived
 ### Rough schedule
-
 #### Winter School
-
 What to expect
 : Curated talks and workshops  
   Evening entertainment
-
 The [School schedule](/school/) will be updated just prior to the event.
-
 #### Unconference
-
 What to expect
   - Build up days 7-10 Dec 
   - See tracks below
   - Week 2 engagements focus on schools, colleges and insitutes
   - Clean up and tear down activities
-
 ***Tracks***
-
-
 | Arts     | Nature  	| Tech for all | Community | Food | Other |
 |:-------- |:-------:	|:--------:	   |:--------: |:-------:|--------:|
 | Folk art | Nature Walk| Mesh network | Storytelling| Food  processing | Design labs|

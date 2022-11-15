@@ -14,17 +14,17 @@ Twitter: [@anthillhacks](twitter.com/anthillhacks)
 
 **Teams**
 
-Janastu.org / Servelots.com
+[Janastu.org](janastu.org) / [Servelots.com](servelots.com)
 
-Namma School Radio
+[Namma School Radio](namdu1radio.com)
 
 ...
 
 
 **Links & resources**
 
-j.mp/myhill
+[j.mp/myhill](j.mp/myhill)
 
-j.mp/janastu-servelots
+[j.mp/janastu-servelots](j.mp/janastu-servelots)
 
-namdu1radio.com
+

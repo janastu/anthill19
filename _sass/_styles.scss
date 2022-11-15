@@ -106,8 +106,8 @@ body{
     -moz-background-size: cover;
     background-size: cover;
     -o-background-size: cover;
-    padding-top: 45px;
-    margin-top: 25px;
+    padding-top: 5px;
+    margin-top: 100px;
 }
 
 .header{
@@ -340,8 +340,10 @@ h4.speaker {
     display: inline-block;
     background: rgba(255, 228, 196, 0.78);
     padding: 15px;
-    margin-left: auto;
-    margin-right:auto;
+    margin: 0 auto;
+    margin-top: 70%
+    //margin-left: auto;
+    //margin-right:auto;
 }
 @media (min-width: 768px) {
     .banner-bg {

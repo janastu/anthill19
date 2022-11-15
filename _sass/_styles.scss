@@ -100,7 +100,7 @@ body{
     min-height: auto;
     text-align: center;
     color: #fff;
-    background-image: url($site_baseurl + "/assets/images/anthill2022/Anthillhacks_with_year_scaled.png");
+    background-image: url($site_baseurl + "/assets/images/anthillhacks-banner.png");
     background-position: center;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -108,8 +108,6 @@ body{
     -o-background-size: cover;
     //padding-top: 45px;
     //margin-top: 25px;
-    //2022 bg image edits
-    //margin-top: 20%;
 }
 
 .header{
@@ -348,7 +346,6 @@ h4.speaker {
 @media (min-width: 768px) {
     .banner-bg {
         margin-left: 45rem;
-        //margin-top: 20%;
     }
 }
 

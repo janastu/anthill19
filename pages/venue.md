@@ -3,9 +3,10 @@ layout: page
 title: Venue
 permalink: /where/
 ---
-The main location of event is Janastu Basecamp ie., iruway Ola/Campus - especially for coordination, registrations, facilities, main hacker and sessions spaces and default go to for food, etc., The event itself will be distributed in the COWMesh connected areas in the valley. <An illustrative map coming soon!>
+The main location of event is Janastu Basecamp ie., iruway Ola/Campus - especially for coordination, registrations, facilities, main hacker and sessions spaces and default go to for food, etc. The event itself will be distributed in the COWMesh connected areas in the valley. 
+<An illustrative map coming soon!>
 
-iruway farms is about 75 KM NW of Bangalore and 15KM East of Tumkur, India. It is situated in the foothills of Devarayanadurga, a living fort town from the Vijayanagara Empire period and is picturesque where these hills become a part of the 360 degree hills range, the valley now has 4 villages and lots of forest and trekking areas with majestic rocks.
+iruway farms is about 75 KM NW of Bangalore and 15KM East of Tumkur, India. [See on Google Maps](https://goo.gl/maps/CWkXd6UGyJaC2PLBA) It is situated in the foothills of Devarayanadurga, a living fort town from the Vijayanagara Empire period and is picturesque where these hills become a part of the 360 degree hills range, the valley now has 4 villages and lots of forest and trekking areas with majestic rocks.
 
 ![Pic of Anteras](/assets/images/anteras2015v1.jpeg)
 

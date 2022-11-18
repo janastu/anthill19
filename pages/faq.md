@@ -15,11 +15,11 @@ permalink: /faq/
 ### What about food and accomodation?
 
 Food
-: There will be a kitchen at the camp where food will be made for the people at the camp. Kitchen takes contributions on a sliding scale. The village on the hill - about 200 meters also have a few street side "cafes". Ofcourse, you can cook your own - camping style (no plastic thrash please). *Please volunteer for the kitchen and cleanup.*
+: There will be a kitchen at the camp where food will be made for the people at the camp. Kitchen takes contributions on a sliding scale. The village on the hill (about 200 meters away) also has a few streetside "cafes". Of course, you can cook your own - camping style (no plastic trash please). *Please volunteer for the kitchen and cleanup.*
 ^
 
 Accommodation
-: There are a few rooms and a number of tents that can be reserved. You are welcome to pitch your own tent. You get to choose when you register. *Please bring warm cloths for the evenings.* 
+: There are a few rooms and a number of tents that can be reserved. You are welcome to pitch your own tent. You get to choose when you register. *Please bring warm clothes for the evenings.*
 ^
 
 ### Should I bring...
@@ -54,7 +54,7 @@ Accommodation
   schedule yourself into unused spaces.
 ^
 
-...**trash? (Ofcourse not!)**
+...**trash? (Of course not!)**
 : Please *leave no trace, pack it in and then pack it out*. However, we will have activities and discussions on trash and waste management, organic composting, bio-toilets and traditional methods of addressing food waste.
 ^
 
@@ -62,15 +62,15 @@ Accommodation
 
 
 Contribution
-: This event is community driven and run by volunteers. Please see where else
+: This event is community-driven and run by volunteers. Please see where else
   you can contribute too! This democratic (or even meritocratic) approach is mirrored
-  on every layer, and so is it for the money bit, too.
+  on every layer, and it's the same for the money bit, too.
 ^
 
 
 Types of financial contribution
 : We want to provide everyone the opportunity to come, so we kindly ask everyone to
-  give as much as s/he can afford.
+  give as much as they can afford.
   *Cash on site only.*
 ^
 

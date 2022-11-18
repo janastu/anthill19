@@ -19,19 +19,7 @@ Our team is looking forward to include your session or activity request for the 
 ### Event costs
 Stay tuned for pricing. We would ideally not want event costs to be a barrier for participation. Please reach out to us if you would like a waiver.
 
- <!--There is a **day pass** for people staying off-site and a **camping pass** for
-those camping on-site. A sliding scale on both of these
-passes allow everyone to participate. All passes cover breakfast, access to daily talks, workshops, and activities
-plus costs like equipment rentals, facilities rent, shade structures,
-electricity, internet and consumables.  The camping pass also includes a tent
-space and the use of shared bathing facilities.
-{: .table}
-|                  | Suggested   | Sliding scale    |
-|------------------|-------------|------------------|
-| **Day pass**     | Rs. xxx/day | Rs. 101-1001/day |
-| **Camping pass** | Rs. xxx/day | Rs. 301-2001/day |
 
--->
 
 ### How to pay
 We only accept cash at the event, no UPI or online payments.
@@ -76,3 +64,14 @@ What to expect
 {: rules="groups"}
 
 -->
+
+ <!--There is a **day pass** for people staying off-site and a **camping pass** for
+those camping on-site. A sliding scale on both of these passes allow everyone to participate. All passes cover breakfast, access to daily talks, workshops, and activities
+plus costs like equipment rentals, facilities rent, shade structures, electricity, internet and consumables.  The camping pass also includes a tent
+space and the use of shared bathing facilities.
+|                  | Suggested   | Sliding scale    |
+|------------------|-------------|------------------|
+| **Day pass**     | Rs. xxx/day | Rs. 101-1001/day |
+| **Camping pass** | Rs. xxx/day | Rs. 301-2001/day |
+-->
+

@@ -100,7 +100,7 @@ body{
     //min-height: auto;
     //text-align: center;
     //color: #fff;
-    background-image: url($site_baseurl + "/assets/images/anthillhacks-banner.png");
+    background-image: url($site_baseurl + "/assets/images/anthill2022/Anthillhacks_with_year_scaled.png");
     //background-position: center;
     //-webkit-background-size: cover;
     //-moz-background-size: cover;
@@ -109,7 +109,11 @@ body{
     //padding-top: 45px;
     //margin-top: 25px;
     //testing css for new banner
-    
+    display: block;
+    -webkit-user-select: none;
+    margin: auto;
+    width: 885px;
+    height: 604px;
 }
 
 .header{

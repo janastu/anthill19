@@ -6,6 +6,7 @@ permalink: /accommodation/
 
 Accommodation
 
-There are a few rooms and a number of tents that can be reserved. You are welcome to pitch your own tent. You get to choose when you register. Please bring warm cloths for the evenings.
+There are a few rooms, a number of tents and sleep floors at iruway (Janastu basecamp). You are welcome to pitch your own tent. Please bring warm clothes for the evenings. There are also few rooms in the villages nearby, a few at [Yatri Nivas](https://goo.gl/maps/VJvSiWjn9PnxGzEP7) atop of Deverayanadurga Hills and there are now a couple of lodges that have come up: [Jenu Gundu](https://jenugundujungletrail.com) and [Nomads Camp](https://www.tripadvisor.in/Hotel_Review-g858478-d23342353-Reviews-The_Nomad_s_Camps_Devarayanadurga-Tumkur_Tumkur_District_Karnataka.html). We can assist in locating people in these as they wish. 
 
-Please see FAQ and Registration form for more details
+
+

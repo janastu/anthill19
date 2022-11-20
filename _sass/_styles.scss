@@ -94,26 +94,24 @@ body{
 }
 
 .header{
-    background-image: url($site_baseurl + "/assets/images/anthill2022/Anthillhacks_revised_date_4.png");
+    background-image: url($site_baseurl + "/assets/images/anthillhacks-banner.png");
     background-repeat: no-repeat;
     //width: 885px;
     //height: 604px;
-    display: block;
-
-    //position: relative;
-    //width: 100%;
-    //height: 686px;
-    //min-height: auto;
-    //text-align: center;
-    //color: #fff;
-    
-    //background-position: center;
-    //-webkit-background-size: cover;
-    //-moz-background-size: cover;
-    //background-size: cover;
-    //-o-background-size: cover;
-    //padding-top: 45px;
-    //margin-top: 25px;
+    //display: block;
+    position: relative;
+    width: 100%;
+    height: 686px;
+    min-height: auto;
+    text-align: center;
+    color: #fff;
+    background-position: center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+    padding-top: 45px;
+    margin-top: 25px;
     //testing css for new banner
     //display: block;
     //-webkit-user-select: none;

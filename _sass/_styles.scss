@@ -123,17 +123,17 @@ body{
 .header{
     h1{
        font-family: monospace;
-       color: #531705;
+       color: #8cc2b8;
        font-size: 30px;
-       text-shadow: 0px 0px 5px #60433A;
+       text-shadow: 0px 0px 5px #3A7835;
     }
     h3{
         font-family: $base-font-family;
         font-weight: 300;
         font-size: 24px;
-        color: #531705;
+        color: #8cc2b8;
         letter-spacing: 1.79px;
-        text-shadow: 0px 0px 5px #60433A;
+        text-shadow: 0px 0px 5px #3A7835;
     }
     a{
         text-decoration: none;
@@ -347,17 +347,11 @@ h4.speaker {
 
 
 .banner-bg {
-    display: inline-block;
-    background: rgba(255, 228, 196, 0.78);
-    padding: 15px;
-    margin-left: auto;
-    margin-right:auto;
+    margin-top: 12rem;
 }
-@media (min-width: 768px) {
-    .banner-bg {
-        margin-left: 45rem;
-    }
-}
+
+
+
 
 /* .no-margin{
     margin-top: 0px;

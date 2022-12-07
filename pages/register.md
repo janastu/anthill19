@@ -17,9 +17,9 @@ Our team is looking forward to include your session or activity request for the 
 <!-- {% include btn-register.html %} -->
 
 ### Event costs
-Stay tuned for pricing. We would ideally not want event costs to be a barrier for participation. Please reach out to us if you would like a waiver.
+101rs per day (includes food on rsvp). Over night 100rs with own tent and  250rs for shared tent or rooms - in the village or at iruWay.
 
-
+Please contribute more if you can so we can help pay the working teams.
 
 ### How to pay
 We only accept cash at the event, no UPI or online payments.
@@ -29,6 +29,13 @@ Please bring cash with you. Local ATMs are not within easy walking distance.
 Every organiser and participant is a volunteer.  Nobody earns a salary
 or makes a profit; if extra funds are collected, we spend them to create a
 better event this year or save them as start-up cash for next year.
+
+### How you can contribute
+You are expected to contribute in some way too.. Like help around with stuff at the farm etc and to be active in participation in groups.
+We will help identify groups of interest for participants. If you can bring a camera or a voice recorder and help with documentation and assisting the media center or coordinate sessions in different locations in the area or help orient people on the activities schedule or post updates on the local COWlanding page.
+
+Please bring fun and learning games for fellow kids and plan activities for families. we have planting, tractor ride, unicycle, electric-auto. Also bring your old routers you can get your hands on - we would like to flash them so they can be used for last mile community connectivity.
+
 
 <!--
 We aim for transparency.  If you are interested in where your money goes, please

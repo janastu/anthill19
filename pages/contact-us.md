@@ -14,7 +14,7 @@ Twitter: [@anthillhacks](https://twitter.com/anthillhacks)
 
 **Teams**
 
-[Janastu.org](https://janastu.org) / [Servelots.com](https://servelots.com)
+[Janastu.org](https://janastu.org) / [Servelots.com](http://servelots.com)
 
 [Namma School Radio](https://namdu1radio.com)
 

@@ -22,6 +22,7 @@ Over the last few years, we’ve iterated, experimented, and have consistently f
 Travel & Lodging Support
 : In the past we have sponsored individuals and families from all over the world to attend Anthill Hacks, especially those who otherwise would not be able to attend. This support applies to those travelling internationally, nationally and locally to come to Anthill Hacks.
 
+  
 Media & A/V Support
 
 : We’re looking for support to record events, talks and workshops over the course of the two weeks. If you’re able to help with this for a few days or the entire period, please reach out! It would be helpful if you have your own equipment, but not necessary.

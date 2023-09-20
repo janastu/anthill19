@@ -36,6 +36,8 @@ We will help identify groups of interest for participants. If you can bring a ca
 
 Please bring fun and learning games for fellow kids and plan activities for families. we have planting, tractor ride, unicycle, electric-auto. Also bring your old routers you can get your hands on - we would like to flash them so they can be used for last mile community connectivity.
 
+### Call For Sponsors
+[Click here to know our needs]({{site.baseurl}}/sponsor/)
 
 <!--
 We aim for transparency.  If you are interested in where your money goes, please

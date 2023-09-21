@@ -17,7 +17,7 @@ permalink: /gallery/
             <div class="row homepage-gallery">
                 <div class="col-md-12 no-padding mt20">
                     <div class="row">
-                    {% for num in (10..21) %}
+                    {% for num in (1..21) %}
                         {% capture image_href %}{{site.baseurl}}/assets/images/ant2019/{{num}}.jpg{% endcapture %}
                         {% include lightbox-image.html href=image_href %}
                     {% endfor %}

@@ -12,3 +12,4 @@ Directions to iruWay [http://j.mp/antz-farm](http://j.mp/antz-farm)
 
 Driving directions can be found with destination: Devarayanadurga
 
+**Travel details will be updated to include air travel, etc.**

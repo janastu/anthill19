@@ -3,7 +3,7 @@ layout: page
 title: Venue
 permalink: /where/
 ---
-Until the event starts, the main location of activity is Janastu Basecamp ie., iruway Ola/Campus (previously antz farm) - especially for coordination, registrations, facilities, main hacker and sessions spaces and default go to for food, etc. The event itself will be distributed in the COWMesh connected areas in the valley. One self-contained location will be around Yatrinivas on Devarayanadurga, one coordinating location will be at iruWay campus and the event is open to other locations in the valley.
+Until the event starts, the main location of activity is Janastu Basecamp ie., iruway Ola/Campus (previously "antz farm") - especially for coordination, registrations, facilities, main hacker and sessions spaces and default go to for food, etc. The event itself will be distributed in the COWMesh connected areas in the valley. One self-contained location will be around Yatrinivas on Devarayanadurga, one coordinating location will be at iruWay campus and the event is open to other locations in the valley. See [blog.janastu.org](https://blog.janastu.org/anthillhacks-22-23/) for a peek at the last year event.
 
 iruway farms is about 75 KM NW of Bangalore and 15KM East of Tumkur, India. 
 

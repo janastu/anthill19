@@ -5,9 +5,9 @@ permalink: /register/
 ---
 
 
-**Registration your interest and help us plan the event.**
+**Register your interest and help us plan the event.**
 
-To register, write to us at anthillhacks@janastu.org with the subject: 2023 AHH Registration of Interest. Tell us about how you want to be associated and what you would like to experience at Anthillhacks. Help us identify you, update you and invite you to sharing meetings before the event. Do mention your name, organization, tentative dates, team and any activity you would like to bring to the event.  
+To register, write to us at anthillhacks@janastu.org with the subject: AHH2324 Registration of Interest. Tell us about how you want to be associated and what you would like to experience at Anthillhacks. Help us identify you, update you and invite you to sharing meetings before the event. Do mention your name, organization, tentative dates, team and any activity you would like to bring to the event.  We wish that you express your needs if any, including travel support.
 
 Our team looks forward to include your session or activity request for the days of your participation and preference. 
 
@@ -18,6 +18,8 @@ You are encouraged to contribute in some way - weaving people, contributing to c
 If you can bring a camera or a voice recorder and help with documentation and assisting the media center or coordinate sessions in different locations in the area or help orient people on the activities schedule or post updates on the stories archive and local COWlanding page.
 
 Please bring fun and learning games for fellow kids and plan activities for families. We have planting, tractor ride, unicycle, electric-auto. Also bring your old routers you can get your hands on - we would like to flash them so they can be used for last mile community connectivity.
+
+Contribute through the dWeb registration link on the Open Collective platform.
 
 ### Call For Sponsors
 [Click here to know our needs]({{site.baseurl}}/sponsor/)

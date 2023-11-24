@@ -17,7 +17,6 @@ Over the last few years, we’ve iterated, experimented, and have consistently f
 ### As we prepare for this year’s Anthill Hacks we are currently looking for sponsorship in the following areas:
 
 
-
 {: .dl-horizontal}
 Travel & Lodging Support
 : In the past we have sponsored individuals and families from all over the world to attend Anthill Hacks, especially those who otherwise would not be able to attend. This support applies to those travelling internationally, nationally and locally to come to Anthill Hacks.

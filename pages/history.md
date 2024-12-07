@@ -58,3 +58,26 @@ Date
 
 Location
 : Anteras, Devarayanadurga and iruWay farm, Durgadahalli foothill
+
+### Anthillhacks 23-24
+
+{: .dl-horizontal }
+Date
+: 25th December to 4th January
+
+Location
+: iruWay farm, foothills of Devarayanadurga hills
+
+Sessions
+: [Tree Climbing event](https://drive.google.com/file/d/1lnicnq-X52ICh8zw141F-M8oxyPSKDGl)
+: [IPFS and Filecoin hackathon focus on Anthillhacks Walkthrough](https://gitlab.com/servelots/dddweb/anthillhacks-hackathon)
+: [Reimagining Equality, Socially-Consciousness in Audiovisual Media-making in Our Languages](https://docs.google.com/document/d/1mdFtCSn-vicwpSU-GTrU_h7_AicAg67lVyyKDS813F0/)
+: [Text search in rural Kannada audio corpus - simple login guest and guest123](http://103.156.19.244:33035)
+: [State of Technology and Pastoralists Future](https://docs.google.com/document/d/12frPh15A0mCKnMZ5iYpd4F-u31UxhCdVOtSRvpZF4Qc/)
+: [Nomad Connect](https://docs.google.com/document/d/1Qq0SwljXxi2HnFBfOX978n670o5b2ZTb/)
+: [Community wifi-mesh and feminist technology in community networks](https://open.janastu.org/projects/cowmesh)
+: Theories of Change discussions on environmental sustainability and care 
+: [Crafts and Nature cafe camps](http://iruway.janastu.org)
+: [Tech-stack for including low-literates](https://bit.ly/internet4inclusion)
+: [Permaculture, organic farming and partcipatory certifications](https://pgsorganic.in/)
+: Performative arts, crafts, science/tech hacks and stories everyday..

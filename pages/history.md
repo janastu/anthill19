@@ -62,6 +62,7 @@ Location
 ### Anthillhacks 23-24
 
 {: .dl-horizontal }
+[A call and statement](https://blog.janastu.org/PreAnthillhacks)
 Date
 : 25th December to 4th January
 

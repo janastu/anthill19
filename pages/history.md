@@ -82,3 +82,17 @@ Sessions
 : [Tech-stack for including low-literates](https://bit.ly/internet4inclusion)
 : [Permaculture, organic farming and partcipatory certifications](https://pgsorganic.in/)
 : Performative arts, crafts, science/tech hacks and stories everyday..
+
+
+### Anthillhacks 24-25
+
+{: .dl-horizontal }
+[A call and statement]([https://blog.janastu.org/PreAnthillhacks](https://docs.google.com/document/d/1zWGo66RqXAUYWRsCS_FxL799guq03zef6JC1as2ncwI/edit?usp=sharing))
+Date
+: 20th to 31th December 2024
+
+Location
+: iruWay farm, foothills of Devarayanadurga hills
+
+Sessions
+: Coming soon

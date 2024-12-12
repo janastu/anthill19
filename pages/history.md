@@ -4,7 +4,7 @@ title: Our history
 permalink: /history/
 ---
 
-Anthillhacks is held since 2015. It was for 9 days during the Summer of 2015. Then anually for 2-3 days. Now in 2019 its planned for 2 weeks! 
+Anthillhacks is held since 2015. It was for 9 days during the Summer of 2015. Then anually for 2-3 days. Since 2019 its planned for 2 weeks! 
 
 Our first gathering focused on "annotating the hill" of our engagements, on it, during the 9 days.
 
@@ -84,7 +84,7 @@ Sessions
 : Performative arts, crafts, science/tech hacks and stories everyday..
 
 
-### Anthillhacks 24-25
+### Anthillhacks 2024
 
 {: .dl-horizontal }
 [A call and statement]([https://blog.janastu.org/PreAnthillhacks](https://docs.google.com/document/d/1zWGo66RqXAUYWRsCS_FxL799guq03zef6JC1as2ncwI/edit?usp=sharing))

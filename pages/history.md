@@ -84,10 +84,10 @@ Sessions
 : Performative arts, crafts, science/tech hacks and stories everyday..
 
 
-### Anthillhacks 2024
+### Anthillhacks 2024 - REMEDIA
 
 {: .dl-horizontal }
-[A call and statement]([https://blog.janastu.org/PreAnthillhacks](https://docs.google.com/document/d/1zWGo66RqXAUYWRsCS_FxL799guq03zef6JC1as2ncwI/edit?usp=sharing))
+[A call and statement](https://docs.google.com/document/d/1zWGo66RqXAUYWRsCS_FxL799guq03zef6JC1as2ncwI/edit?usp=sharing)
 Date
 : 20th to 31th December 2024
 

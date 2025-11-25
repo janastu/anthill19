@@ -94,6 +94,9 @@ Date
 Location
 : iruWay farm, foothills of Devarayanadurga hills
 
+Sessions
+: [Schedule](https://docs.google.com/document/d/15LVLvz4_8dzpo1rCsDH_Yjm6nCdDH9wyDTmdRFwuMF8/edit?usp=sharing) 
+
 ### Anthillhacks 2025 - RECOMMONS
 
 {: .dl-horizontal }

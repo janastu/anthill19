@@ -84,7 +84,7 @@ Sessions
 : Performative arts, crafts, science/tech hacks and stories everyday..
 
 
-### Anthillhacks 2024 - REMEDIA
+### Anthillhacks 2024 - ReMedia
 
 {: .dl-horizontal }
 [A call and statement](https://docs.google.com/document/d/1zWGo66RqXAUYWRsCS_FxL799guq03zef6JC1as2ncwI/edit?usp=sharing)
@@ -97,7 +97,7 @@ Location
 Sessions
 : [Schedule](https://docs.google.com/document/d/15LVLvz4_8dzpo1rCsDH_Yjm6nCdDH9wyDTmdRFwuMF8/edit?usp=sharing) 
 
-### Anthillhacks 2025 - RECOMMONS
+### Anthillhacks 2025 - ReCommons
 
 {: .dl-horizontal }
 [A call and statement](https://docs.google.com/document/d/1j6hJ5ZFdUOxd4wBfkWnvPdJX-7ca3vLS5rwrmYgH9nY/edit?usp=sharing)

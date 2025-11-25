@@ -94,3 +94,12 @@ Date
 Location
 : iruWay farm, foothills of Devarayanadurga hills
 
+### Anthillhacks 2025 - RECOMMONS
+
+{: .dl-horizontal }
+[A call and statement](https://docs.google.com/document/d/1j6hJ5ZFdUOxd4wBfkWnvPdJX-7ca3vLS5rwrmYgH9nY/edit?usp=sharing)
+Date
+: 15th to 28th December 2025
+
+Location
+: iruWay farm, foothills of Devarayanadurga hills

@@ -94,5 +94,3 @@ Date
 Location
 : iruWay farm, foothills of Devarayanadurga hills
 
-Sessions
-: Coming soon

@@ -100,7 +100,7 @@ Sessions
 ### Anthillhacks 2025 - ReCommons
 
 {: .dl-horizontal }
-[A call and statement](https://docs.google.com/document/d/1j6hJ5ZFdUOxd4wBfkWnvPdJX-7ca3vLS5rwrmYgH9nY/edit?usp=sharing)
+[A call and statement](https://blog.janastu.org/Anthillhacks-2025/)
 Date
 : 15th to 28th December 2025
 

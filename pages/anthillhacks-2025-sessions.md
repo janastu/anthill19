@@ -1,11 +1,10 @@
 ---
 layout: page
-title: anthillhacks-25-schedule
+title: AnthillHacks 2025 - ReCommons Schedule
 permalink: /anthillhacks2025-schedule/
 ---
 ## Thia is a draft, few sessions yet be added
 
-# AnthillHacks 2025 - ReCommons Schedule
 
 **Venue**: IruWay Farm, Durgadahalli, Karnataka
 
@@ -16,7 +15,7 @@ permalink: /anthillhacks2025-schedule/
 Setting up mesh networks and preparing infrastructure.
 Volunteer-led activities: Food preparation, organizing materials, and site readiness.
 
-***Day 1-2:**
+**Day 1-2:**
 
 Dates: December 20, 21
 

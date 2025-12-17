@@ -29,7 +29,7 @@ by Sheshadri Ramaswamy, Director, Forestry for All Foundation
 
 Evening session
 
-**“Kai Thota”** by Babita
+**Kai Thota: Enabling the Farming Commons Through Tech** by Peerthy & Vishala
 
 Kai Thota is a way of farming that brings people together. Instead of one farmer working alone for profit, a group - often women, new farmers, or those without land - comes together. The work, the land, and the harvest are all shared.
 https://kaithota.in
@@ -37,6 +37,12 @@ https://kaithota.in
 **Immersive Art** by Roshan Sahi - Artist
 
 Today, we are witnessing a new form of art that challenges our very understanding of what constitutes an art experience. Art is more than an artefact, picture or sculpture. Art is immersive. Art is interactive. Art is collaborative. Art is designing and curating. The way we engage in an immersive art experience today is a tacit and intuitive exploration, often unconsciously made, through a conceptual framework that remains invisible behind the work of art. Art that was made to fit in galleries is rejected and made available in open public spaces for all ages. Immersive art is ephemeral, something passing, something immaterial; an act of doing something as a way of experiencing.
+
+**AI beka?** by Padmini - Founder of Design Beku
+
+AI is everywhere but what is it really? Let's chat about what it is, and what it could be.
+
+**Queer Ecologies** by Sanika
 
 **Day 3:**
 

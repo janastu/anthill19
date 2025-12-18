@@ -42,7 +42,9 @@ Today, we are witnessing a new form of art that challenges our very understandin
 
 AI is everywhere but what is it really? Let's chat about what it is, and what it could be.
 
-**Queer Ecologies** by Sanika
+**Exploring Queer Ecology** by Sanika
+
+For centuries, western science has imposed heteronormative frameworks on the natural world, effectively erasing the presence and significance of queerness in non-human species. A new wave of researchers and educators is challenging these assumptions, revealing the complex and diverse expressions of queerness in nature, giving rise to the field of Queer Ecology. This session explores the philosophical, ecological, and educational impact of this approach.
 
 **Day 3:**
 

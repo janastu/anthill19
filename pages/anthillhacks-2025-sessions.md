@@ -98,4 +98,14 @@ Date: December 27, 28
 
 Living Library is a library where people share their experiences, skills, Knowledge with each other and archive for future.
 
+"**Nekal Vaamozhi**" By Hari Govind, Sarath Meraki and Naru Parai Isai
+
+Beyond mere vibrations passing through our ears, sounds hold narratives; narratives that we haven’t noticed and narratives that we don't dare to heed.
+Moreover each sound is a link to the past, a sign from the present or a navigation for the  days ahead.
+Nekal Vaamozhi is a collective sound archiving process which tends to provoke the dialogue between an individual and the collective voice of the living. Sound reveals more when we stop identifying it and it paves way to be open to re-imagine or rethink.
+
+‘Nekal’, derived from Nizhal (Malayalam for shadow) stands for the spirits of worshipped ancestors among the Kurichiya community in Wayanad,Kerala. For Kurichiyas Nekal functions as a collective vocabulary from the past; which guides them through their agricultural life and role as the caretakers of land. And Vaamozhi stands for oral communication.
+
+
+
 

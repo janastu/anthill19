@@ -46,26 +46,30 @@ AI is everywhere but what is it really? Let's chat about what it is, and what it
 
 For centuries, western science has imposed heteronormative frameworks on the natural world, effectively erasing the presence and significance of queerness in non-human species. A new wave of researchers and educators is challenging these assumptions, revealing the complex and diverse expressions of queerness in nature, giving rise to the field of Queer Ecology. This session explores the philosophical, ecological, and educational impact of this approach.
 
-**Day 3:**
+**Day 3-4:**
 
-Date: December 22
+Date: December 22,23
 
-“**What a Lake Keeps**” by  Lohit Y T - Biodiversity Conservationist
+"**Mesh Network expansion within villages**" by Janastu Team
 
-A lake keeps far more than water. It holds biodiversity and cultural memory. As a commons, it embodies equity and collective responsibility, reminding us that access and care must be shared across generations. In quiet ways, a lake keeps life, balance, and memory, asking only to be protected so that it can continue to give.
-
-**Day 4:**
-
-Date: December 23
-
+"**Community Engagement**" by Manju, Hari and Sarath
 
 **Day 5-6:**
 
 Dates: December 24, 25
 
+Morning Session
+
+"**Sound Journaling around the hills**" by Hari
+
+"**Exclusion by Design**" by Ajmal
+How caste, class and gender influence design to exclude people from accessing commons?
+
 “**Collective Hands**” facilitated by Vijayalakshmi - Artist/Architect
 
 Together we make, for all us: a space from what surrounds us.
+
+Evening Session
 
 “**Book and Poetry reading**” by Kathela Kavya team
 
@@ -78,6 +82,11 @@ Date: December 26
 “**Origin of state and its historical Perspective**” by Madhu Sudhan - Professor, Dept of Political Science
 
 “**Laws and Policies related to Commons**” by Rashmi - Lawyer
+
+“**What a Lake Keeps**” by  Lohit Y T - Biodiversity Conservationist
+
+A lake keeps far more than water. It holds biodiversity and cultural memory. As a commons, it embodies equity and collective responsibility, reminding us that access and care must be shared across generations. In quiet ways, a lake keeps life, balance, and memory, asking only to be protected so that it can continue to give.
+
 
 **Day 8-9:**
 

@@ -38,10 +38,6 @@ https://kaithota.in
 
 Today, we are witnessing a new form of art that challenges our very understanding of what constitutes an art experience. Art is more than an artefact, picture or sculpture. Art is immersive. Art is interactive. Art is collaborative. Art is designing and curating. The way we engage in an immersive art experience today is a tacit and intuitive exploration, often unconsciously made, through a conceptual framework that remains invisible behind the work of art. Art that was made to fit in galleries is rejected and made available in open public spaces for all ages. Immersive art is ephemeral, something passing, something immaterial; an act of doing something as a way of experiencing.
 
-**AI beka?** by Padmini - Founder of Design Beku
-
-AI is everywhere but what is it really? Let's chat about what it is, and what it could be.
-
 **Exploring Queer Ecology** by Sanika
 
 For centuries, western science has imposed heteronormative frameworks on the natural world, effectively erasing the presence and significance of queerness in non-human species. A new wave of researchers and educators is challenging these assumptions, revealing the complex and diverse expressions of queerness in nature, giving rise to the field of Queer Ecology. This session explores the philosophical, ecological, and educational impact of this approach.
@@ -79,26 +75,55 @@ A platform for sharing your writings and poetries.
 
 Date: December 26
 
+Morning Session
+
+"**Sound Bath**" By Hari & Sarath
+
+“**Collective Hands**” facilitated by Vijayalakshmi - Artist/Architect
+
+Together we make, for all us: a space from what surrounds us.
+
+Evening Session
+
 “**Origin of state and its historical Perspective**” by Madhu Sudhan - Professor, Dept of Political Science
 
 “**Laws and Policies related to Commons**” by Rashmi - Lawyer
 
-“**What a Lake Keeps**” by  Lohit Y T - Biodiversity Conservationist
+**Day 8:**
 
-A lake keeps far more than water. It holds biodiversity and cultural memory. As a commons, it embodies equity and collective responsibility, reminding us that access and care must be shared across generations. In quiet ways, a lake keeps life, balance, and memory, asking only to be protected so that it can continue to give.
+Morning Session
 
+"**Traditional Media, Digital Media & it's Politics**" By Kavitha & Shashi Kumar
+
+Evening Session
+
+"**Digital Technology & Commons**" By Noor
+
+**AI beka?** by Padmini - Founder of Design Beku
+
+AI is everywhere but what is it really? Let's chat about what it is, and what it could be.
 
 **Day 8-9:**
 
 Date: December 27, 28
 
-“**Experience from the Crafterspace**” By Crafterspace artisans
-
 “**Living Library**” By Amrutha
 
 Living Library is a library where people share their experiences, skills, Knowledge with each other and archive for future.
 
-"**Nekal Vaamozhi**" By Hari Govind, Sarath Meraki and Naru Parai Isai
+“**Experience from the Crafterspace**” By Crafterspace artisans
+
+“**What a Lake Keeps**” by  Lohit Y T - Biodiversity Conservationist
+
+A lake keeps far more than water. It holds biodiversity and cultural memory. As a commons, it embodies equity and collective responsibility, reminding us that access and care must be shared across generations. In quiet ways, a lake keeps life, balance, and memory, asking only to be protected so that it can continue to give.
+
+"**Art & Crafts Politics**" By Sampath
+
+"**Art Exhibition**" By Ajmal, Emma & Sitara
+
+Exhibiting Photos and videos as well as musical events in Thiminayakahalli village.
+
+"**Nekal Vaamozhi**" By Hari Govind, Sarath Meraki
 
 Beyond mere vibrations passing through our ears, sounds hold narratives; narratives that we haven’t noticed and narratives that we don't dare to heed.
 Moreover each sound is a link to the past, a sign from the present or a navigation for the  days ahead.

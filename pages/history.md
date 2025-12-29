@@ -106,3 +106,6 @@ Date
 
 Location
 : iruWay farm, foothills of Devarayanadurga hills
+
+Sessions
+: [Schedule](https://anthillhacks.in/anthillhacks2025-schedule/) 

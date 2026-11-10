@@ -7,7 +7,7 @@ permalink: /register/
 
 **Register your interest and help us plan the event.**
 
-To register, write to us at anthillhacks@janastu.org with the subject: AHH2324 Registration of Interest. Tell us about how you want to be associated and what you would like to experience at Anthillhacks. Help us identify you, update you and invite you to sharing meetings before the event. Do mention your name, organization, tentative dates, team and any activity you would like to bring to the event.  We wish that you express your needs if any, including travel support.
+To register, write to us at anthillhacks@janastu.org with the subject: Anthillhacks Registration of Interest. Tell us about how you want to be associated and what you would like to experience at Anthillhacks. Help us identify you, update you and invite you to sharing meetings before the event. Do mention your name, organization, tentative dates, team and any activity you would like to bring to the event.  We wish that you express your needs if any, including travel support.
 
 Our team looks forward to include your session or activity request for the days of your participation and preference. 
 

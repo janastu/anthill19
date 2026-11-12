@@ -3,8 +3,6 @@ layout: page
 title: AnthillHacks 2025 - ReCommons Schedule
 permalink: /anthillhacks2025-schedule/
 ---
-# Thia is a draft, few sessions yet be added
-
 
 **Venue**: IruWay Farm, Durgadahalli, Karnataka
 
